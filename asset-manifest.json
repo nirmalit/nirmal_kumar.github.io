@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "./static/css/main.1b308d45.css",
-    "main.js": "./static/js/main.32be9df2.js",
+    "main.css": "./static/css/main.142fd812.css",
+    "main.js": "./static/js/main.ee401d47.js",
     "static/media/home_right_final.png": "./static/media/home_right_final.5a4e715110aa3f3a3359.png",
     "static/media/parker_logo.svg": "./static/media/parker_logo.5c657b2aff434633f29442da242c1243.svg",
     "static/media/bdc_logo.svg": "./static/media/bdc_logo.364678ef21ad52a4952c665de69ba9cd.svg",
     "static/media/fmp_logo.svg": "./static/media/fmp_logo.068edeea14ad4524fb30c1f22ebae0a8.svg",
+    "static/media/skill_background.svg": "./static/media/skill_background.74bf68304738c7f0216ce229466cc54c.svg",
     "index.html": "./index.html",
-    "main.1b308d45.css.map": "./static/css/main.1b308d45.css.map",
-    "main.32be9df2.js.map": "./static/js/main.32be9df2.js.map"
+    "main.142fd812.css.map": "./static/css/main.142fd812.css.map",
+    "main.ee401d47.js.map": "./static/js/main.ee401d47.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b308d45.css",
-    "static/js/main.32be9df2.js"
+    "static/css/main.142fd812.css",
+    "static/js/main.ee401d47.js"
   ]
 }
