@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "./static/css/main.1b308d45.css",
-    "main.js": "./static/js/main.32be9df2.js",
+    "main.css": "./static/css/main.107f70bf.css",
+    "main.js": "./static/js/main.6e318af9.js",
+    "static/media/about_me_right.png": "./static/media/about_me_right.d3b0b4b37fbbbc22919e.png",
     "static/media/home_right_final.png": "./static/media/home_right_final.5a4e715110aa3f3a3359.png",
-    "static/media/parker_logo.svg": "./static/media/parker_logo.5c657b2aff434633f29442da242c1243.svg",
-    "static/media/bdc_logo.svg": "./static/media/bdc_logo.364678ef21ad52a4952c665de69ba9cd.svg",
-    "static/media/fmp_logo.svg": "./static/media/fmp_logo.068edeea14ad4524fb30c1f22ebae0a8.svg",
+    "static/media/parker_logo.svg": "./static/media/parker_logo.7aa98db119889e6a215502ca784365de.svg",
+    "static/media/bdc_logo.svg": "./static/media/bdc_logo.36f1e53100aa27747e72a766e4b6c513.svg",
+    "static/media/fmp_logo.svg": "./static/media/fmp_logo.226c81e086fcb827d7941e199e0dc44c.svg",
+    "static/media/skill_background.svg": "./static/media/skill_background.5480bf56cf8ea7c26508978c3fdba184.svg",
     "index.html": "./index.html",
-    "main.1b308d45.css.map": "./static/css/main.1b308d45.css.map",
-    "main.32be9df2.js.map": "./static/js/main.32be9df2.js.map"
+    "main.107f70bf.css.map": "./static/css/main.107f70bf.css.map",
+    "main.6e318af9.js.map": "./static/js/main.6e318af9.js.map"
   },
   "entrypoints": [
-    "static/css/main.1b308d45.css",
-    "static/js/main.32be9df2.js"
+    "static/css/main.107f70bf.css",
+    "static/js/main.6e318af9.js"
   ]
 }
